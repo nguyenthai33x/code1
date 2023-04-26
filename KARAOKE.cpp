@@ -16,6 +16,7 @@ int main(){
     if (giodau >= 14 && giocuoi <= 17){
         tongtien = tongtien *0.9;}
         printf("So tien phai tra la : %f ",tongtien);
+            printf("So tien phai tra la : %f ",tongtien);
 	}
 	
 
